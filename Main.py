@@ -1,7 +1,7 @@
 try:
     van = False
     while not van:
-        x = float(input("Kérem az első számot számot: "))
+        x = float(input("Kérem az első számot: "))
         y = float(input("Kérem a második számot: "))
         b = input("Milyen műveletet szeretne elvégezni velük: ")
 
